@@ -1,0 +1,5 @@
+{
+  "name": "Music Library",
+  "description": "A PHP-based music library management system with MySQL, Twig, and AJAX search.",
+  "requestFramePermissions": []
+}
